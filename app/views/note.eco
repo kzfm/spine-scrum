@@ -1,5 +1,0 @@
-<div class="note">
-<div class="ribbon <%= @color %>"/>
-<div class="delete">x</div>
-<textarea class="textedit"><%= @content %></textarea>
-</div>
